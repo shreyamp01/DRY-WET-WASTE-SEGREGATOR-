@@ -24,3 +24,7 @@ The IR sensor scans the waste to determine its material properties, helping to d
 Sorting and Segregation:
 Based on the sensor data, the sorting mechanism is activated. Wet waste is directed into one bin, while dry waste is directed into another.
 Final Collection: Segregated waste is collected in separate bins, ready for further processing like recycling or composting.
+
+# SCHEMATIC  CIRCUIT 
+![wet and dry waste schematic](https://github.com/shreyamp01/DRY-WET-WASTE-SEGREGATOR-/assets/134608809/aa9eaf83-3f40-4458-8f24-eeabaa8ec54f)
+
